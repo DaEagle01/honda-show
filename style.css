@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+/* header hero section  */
+
+header {
+    background-color: #264653;
+    color: rgb(255, 255, 255);
+}
+.header small  {
+    font-size: 14px;
+}
+header p {
+    color: #E0E0E0;
+    
+}
+.honda-title h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    line-height: 72px;
+}
+.honda-title span {
+    color: #E76F51;
+}
+.modal-button {
+    background-color: #E76F51;
+}
+.hero-bike {
+    width: 550px;
+    height: 450px;
+    margin-bottom: 96px;
+    margin-top: 69px;
+}
+
+
+/* main section . featured bike  */
+
+.all-bike {
+    margin-top: 116px;
+    margin-bottom: 165px;
+}
+.featured-bike-title p {
+    color: #E76F51;
+}
+.featured-bike img{
+    width: 288px;
+    height: 243px;
+}
+
+.featured-bike-gray img {
+  filter: grayscale(100%);
+}
+.featured-bike-colored {
+    margin-right: ;
+    margin-left: ;
+}
+
+/*  clients feedback */
+.client-feedback span{
+    color: #E76F51;
+}
+.client-feedback-detail img {
+    width: 144px;
+    height: 144px;
+}
+.rating i {
+    color: #E76F51;
+}
+/* frequently asked  questions  */
+.faq-image {
+    width: 431px;
+    height: 423px;
+}
